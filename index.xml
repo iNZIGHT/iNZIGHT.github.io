@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thingsofadam</title>
-    <link>bjorkman.io/</link>
+    <link>https://bjorkman.io/</link>
     <description>Recent content on thingsofadam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 13:42:49 -0500</lastBuildDate>
     
-	<atom:link href="bjorkman.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bjorkman.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>bjorkman.io/about/</link>
+      <link>https://bjorkman.io/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>bjorkman.io/about/</guid>
+      <guid>https://bjorkman.io/about/</guid>
       <description>Hello, I&amp;rsquo;m Adam. Just your standard swedish asian guy currently attending my last year as a student for M.sc. in Computer Engineering with emphasis on Computer Security at Blekinge Institue of Technology.
 Here you will find a good mixture of everything from cryptography to piano, digitalized forever.
 Oh. I also do photography.</description>
@@ -24,10 +24,10 @@ Oh. I also do photography.</description>
     
     <item>
       <title>A Poem</title>
-      <link>bjorkman.io/a-poem/</link>
+      <link>https://bjorkman.io/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
-      <guid>bjorkman.io/a-poem/</guid>
+      <guid>https://bjorkman.io/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;
@@ -41,10 +41,10 @@ And thus commands the vision of the night.
     
     <item>
       <title>A Poem</title>
-      <link>bjorkman.io/blog/a-poem/</link>
+      <link>https://bjorkman.io/blog/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
-      <guid>bjorkman.io/blog/a-poem/</guid>
+      <guid>https://bjorkman.io/blog/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;
