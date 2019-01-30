@@ -6,10 +6,20 @@
     <description>Recent content on All things adam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-en</language>
-    <lastBuildDate>Sat, 17 Nov 2018 12:35:11 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jan 2019 10:30:30 +0100</lastBuildDate>
     
 	<atom:link href="https://bjorkman.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The cool new toy on the VPN block</title>
+      <link>https://bjorkman.io/blog/wireguard/</link>
+      <pubDate>Mon, 21 Jan 2019 10:30:30 +0100</pubDate>
+      
+      <guid>https://bjorkman.io/blog/wireguard/</guid>
+      <description>I recently started to fall in love with the new VPN wireguard. For you that does not know, wireguard is a cool new VPN technology that is only around ~4000 lines of code. Not only that; its super fast, overtakingopenVPN protocol bseveral leauges. It is also multicore, which is always nice.
+Wireguard uses the ChaCha20 encryption protocol for all its goodiness. I must say however, since the protocol is fairly new, it is not deemd as &amp;ldquo;secure&amp;rdquo; as openVPN or IPSEC.</description>
+    </item>
     
     <item>
       <title>Why does people insist on super complicated passwords?</title>
@@ -17,7 +27,7 @@
       <pubDate>Sat, 17 Nov 2018 12:35:11 +0100</pubDate>
       
       <guid>https://bjorkman.io/blog/passwords/</guid>
-      <description>Something that really grinds my gears is people who still recomennds super complex passwords. I mean come on, it&amp;rsquo;s 2018 for christs sake. The old password laws are dead, please just accept that. Just because one pumps a password full with exclamation points, offerings to the devil and half a can of tuna, does not make it a good password. Super complicated passwords such as !#121dsSDA32jKCS(9&amp;rdquo;###!&amp;ldquo;SDd2 is just to much for the simple human mind to handle.</description>
+      <description>Something that really grinds my gears is people who still recommends super complex passwords. I mean come on, it&amp;rsquo;s 2018 for christs sake. The old password laws are dead, please just accept that. Just because one pumps a password full with exclamation points, offerings to the devil and half a can of tuna, does not make it a good password. Super complicated passwords such as !#121dsSDA32jKCS(9&amp;rdquo;###!&amp;ldquo;SDd2 are just to much for the simple human mind to handle.</description>
     </item>
     
     <item>
