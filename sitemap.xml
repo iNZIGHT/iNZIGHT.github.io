@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bjorkman.io/blog/showerthoughts1/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bjorkman.io/blog/wireguard/</loc>
     <lastmod>2019-01-21T10:30:30+01:00</lastmod>
   </url>
@@ -24,30 +19,18 @@
   
   <url>
     <loc>https://bjorkman.io/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
+    <lastmod>2019-01-21T10:30:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bjorkman.io/blog/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bjorkman.io/tags/by/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
+    <lastmod>2019-01-21T10:30:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bjorkman.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bjorkman.io/tags/design/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,14 +45,8 @@
   </url>
   
   <url>
-    <loc>https://bjorkman.io/tags/privacy/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bjorkman.io/tags/</loc>
-    <lastmod>2019-04-07T12:00:11+01:00</lastmod>
+    <lastmod>2018-11-17T12:35:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
