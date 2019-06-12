@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>By on All things adam</title>
+    <link>https://bjorkman.io/tags/by/</link>
+    <description>Recent content in By on All things adam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-en</language>
+    <lastBuildDate>Sun, 07 Apr 2019 12:00:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://bjorkman.io/tags/by/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why does people insist on super complicated passwords?</title>
+      <link>https://bjorkman.io/blog/showerthoughts1/</link>
+      <pubDate>Sun, 07 Apr 2019 12:00:11 +0100</pubDate>
+      
+      <guid>https://bjorkman.io/blog/showerthoughts1/</guid>
+      <description>So for you guys that does not know, I&amp;rsquo;m currently writting my master thesis on security in smart home assistants (Google Home, Amazon Echo etc.) when a thought struck me; Do users actually care about privacy-?</description>
+    </item>
+    
+  </channel>
+</rss>
