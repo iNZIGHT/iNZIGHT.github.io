@@ -1,1 +1,1 @@
-# iNZIGHT.github.ios
+# iNZIGHT.github.io
