@@ -3,55 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bjorkman.io/blog/wireguard/</loc>
+    <loc>bjorkman.io/blog/wireguard/</loc>
     <lastmod>2019-01-21T10:30:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bjorkman.io/blog/passwords/</loc>
+    <loc>bjorkman.io/blog/passwords/</loc>
     <lastmod>2018-11-17T12:35:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bjorkman.io/about/</loc>
+    <loc>bjorkman.io/about/</loc>
     <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bjorkman.io/</loc>
+    <loc>bjorkman.io/a-poem/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/blog/a-poem/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/35mmsecure/</loc>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/35mmsecure/</loc>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/blog/</loc>
     <lastmod>2019-01-21T10:30:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bjorkman.io/blog/</loc>
+    <loc>bjorkman.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/tags/classic/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/tags/passwords/</loc>
+    <lastmod>2018-11-17T12:35:11+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/tags/poem/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/tags/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>bjorkman.io/tags/vpn-wireguard/</loc>
     <lastmod>2019-01-21T10:30:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bjorkman.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bjorkman.io/gallery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bjorkman.io/tags/passwords/</loc>
-    <lastmod>2018-11-17T12:35:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bjorkman.io/tags/</loc>
-    <lastmod>2018-11-17T12:35:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bjorkman.io/tags/vpn-wireguard/</loc>
+    <loc>bjorkman.io/</loc>
     <lastmod>2019-01-21T10:30:30+01:00</lastmod>
     <priority>0</priority>
   </url>
